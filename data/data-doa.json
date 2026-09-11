@@ -351,6 +351,86 @@
     "arabic": "اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي",
     "latin": "Allahummastur 'awraatii wa aamin raw'aatii.",
     "translation": "Ya Allah, tutupilah aib-aibku dan berilah aku rasa aman dari hal-hal yang mengkhawatirkan."
+  },
+  [
+  {
+    "id": "doa-pengikat-hati",
+    "category": "Hubungan & Jodoh",
+    "title": "Doa Pengikat Hati dan Kasih Sayang",
+    "arabic": "اللَّهُمَّ ثَبِّتْ قَلْبِي عَلَيْنَا وَعَلَيْنَا",
+    "latin": "Allahumma tsabit qolbi 'alaina wa'alaina.",
+    "translation": "Ya Allah, teguhkanlah hatiku atas kami dan untuk kami. (Dibaca 7x, sebut namanya 3x)"
+  },
+  {
+    "id": "ayat-seribu-dinar",
+    "category": "Rezeki & Tawakal",
+    "title": "Ayat Seribu Dinar (QS. At-Talaq: 2–3)",
+    "arabic": "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+    "latin": "Wa may yattaqillāha yaj'al lahū makhrajā, wa yarzuq-hu min haitsu lā yahtasib, wa may yatawakkal 'alallāhi fahuwa ḥasbuh.",
+    "translation": "Barangsiapa bertakwa kepada Allah niscaya Dia akan membukakan jalan keluar baginya, dan Dia memberinya rezeki dari arah yang tidak disangka-sangkanya. Dan barangsiapa bertawakal kepada Allah, niscaya Allah akan mencukupkan (keperluan)nya."
+  },
+  {
+    "id": "doa-terbaik-atas-penantian",
+    "category": "Harapan & Hajat",
+    "title": "Doa Mengharapkan yang Terbaik dalam Penantian",
+    "arabic": "اللَّهُمَّ خَيْرًا فِي كُلِّ أَمْرٍ أَنْتَظِرُهُ",
+    "latin": "Allahumma khairan fii kulli amrin antaziruh.",
+    "translation": "Ya Allah, berikanlah kebaikan dalam setiap perkara yang sedang kunantikan."
+  },
+  {
+    "id": "dzikir-kun-fayakun",
+    "category": "Hajat & Perlindungan",
+    "title": "Dzikir Memohon Terkabulnya Hajat",
+    "arabic": "يَا قُدُّوسُ، يَا قُدْرَةَ اللَّهِ، يَا سَيِّدِي يَا رَسُولَ اللَّهِ، كُنْ فَيَكُونُ",
+    "latin": "Ya Quddus, ya qodratullah, ya Sayyidi ya Rasulullah, Kun Fayakun.",
+    "translation": "Wahai Dzat Yang Maha Suci, wahai kuasa Allah, wahai junjunganku wahai Rasulullah, jadilah maka terjadilah. (Dibaca 17x)"
+  },
+  {
+    "id": "doa-disukai-banyak-orang",
+    "category": "Hubungan Sosial",
+    "title": "Doa agar Disukai Banyak Orang (Shalawat Mahabbah)",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ حَبِيبِ الْمَحْجُوبِ شَافِي الْعِلَلِ وَمُفَرِّجِ الْكُرَبِ",
+    "latin": "Allahumma sholli 'ala sayyidina Muhammad, habibil mahjuubi syaafil 'ilali wa mufarrijil kurab.",
+    "translation": "Ya Allah, limpahkanlah rahmat kepada junjungan kami Nabi Muhammad, kekasih yang tertutup tabir, penyembuh segala penyakit, dan pelenyap segala kesulitan."
+  },
+  {
+    "id": "doa-memohon-surga-terhindar-neraka",
+    "category": "Akhirat & Keselamatan",
+    "title": "Doa Memohon Surga dan Perlindungan dari Api Neraka",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+    "latin": "Allahumma innii as-alukal jannah, wa a'uudzu bika minan-naar.",
+    "translation": "Ya Allah, sesungguhnya aku memohon kepada-Mu surga, dan aku berlindung kepada-Mu dari neraka."
+  },
+  {
+    "id": "doa-menghilangkan-jerawat",
+    "category": "Kesehatan & Perawatan Diri",
+    "title": "Doa Menghilangkan Jerawat",
+    "arabic": "اللَّهُمَّ مُطْفِئَ الْكَبِيرِ وَمُكَبِّرَ الصَّغِيرِ أَطْفِئْهَا عَنِّي",
+    "latin": "Allahumma muthfi'al kabir wa mukbira shaghiri athfi'ha 'anni.",
+    "translation": "Ya Allah, Dzat yang mengecilkan yang besar dan membesarkan yang kecil, padamkanlah/hilangkanlah (jerawat) ini dariku."
+  },
+  {
+    "id": "doa-memancarkan-aura-wajah",
+    "category": "Pancar Cahaya & Wajah",
+    "title": "Doa Memancarkan Aura Wajah (QS. At-Tahrim: 8)",
+    "arabic": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "latin": "Robbana atmim lanaa nuurona waghfir lanaa, innaka 'ala kulli syai-in qadiir.",
+    "translation": "Ya Tuhan kami, sempurnakanlah bagi kami cahaya kami dan ampunilah kami; sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
+  },
+  {
+    "id": "doa-amal-diterima-rezeki-baik",
+    "category": "Ibadah & Rezeki",
+    "title": "Doa Memohon Amal Diterima, Ilmu Bermanfaat, dan Rezeki yang Baik",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+    "latin": "Allahumma innii as'aluka 'ilman naafi'aa, wa rizqan thayyibaa, wa 'amalan mutaqabbalaa.",
+    "translation": "Ya Allah, sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima."
+  },
+  {
+    "id": "doa-melintasi-jembatan-shirath",
+    "category": "Keselamatan & Akhirat",
+    "title": "Doa agar Dimudahkan Melintasi Jembatan Shirath",
+    "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ إِلَهًا وَاحِدًا وَرَبًّا شَاهِدًا لَا مَعْبُودَ سِوَاهُ وَنَحْنُ لَهُ مُسْلِمُونَ",
+    "latin": "Asyhadu an lā ilāha illallāhu wahdahū lā syarīka lahū ilāhan wāhidan, wa rabban syāhidan, lā ma'būda siwāhu, wa naḥnu lahū muslimūn.",
+    "translation": "Aku bersaksi tiada Tuhan selain Allah Yang Esa. Tiada sekutu bagi-Nya sebagai Tuhan yang esa dan Tuhan yang menyaksikan. Tiada zat yang patut disembah selain-Nya. Kami tunduk kepada-Nya."
   }
-  
 ]
