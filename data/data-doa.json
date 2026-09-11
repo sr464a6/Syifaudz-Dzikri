@@ -513,6 +513,61 @@
     "arabic": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أَنْتَ",
     "latin": "Allahumma rahmataka arju fala takilni ila nafsi tharfata 'ain, wa ashlih li sya'ni kullahu, la ilaha illa anta.",
     "translation": "Ya Allah, rahmat-Mu aku harapkan, maka janganlah Engkau serahkan urusanku kepada diriku sendiri walau sekejap mata, dan perbaikilah segala urusanku, tidak ada Tuhan yang berhak disembah selain Engkau."
+  },
+      {
+    "id": "doa-nabi-yunus",
+    "category": "Kelapangan & Kesulitan",
+    "title": "Doa Nabi Yunus (Keluar dari Kesulitan Besar)",
+    "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+    "latin": "La ilaha illa anta subhanaka inni kuntu minadz dzalimin.",
+    "translation": "Tidak ada Tuhan yang berhak disembah selain Engkau. Maha Suci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim."
+  },
+  {
+    "id": "doa-sakit-diri-sendiri",
+    "category": "Kesehatan & Kesembuhan",
+    "title": "Doa untuk Diri Sendiri (Memohon Perlindungan dari Sakit)",
+    "arabic": "أَعُوذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+    "latin": "A'udzu billahi wa qudrotihi min syarri maa ajidu wa uhaadzir.",
+    "translation": "Aku berlindung kepada Allah dan kekuasaan-Nya dari keburukan yang aku rasakan dan yang aku khawatirkan."
+  },
+  {
+    "id": "doa-mengangkat-penyakit",
+    "category": "Kesehatan & Kesembuhan",
+    "title": "Doa Utama untuk Mengangkat Penyakit",
+    "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+    "latin": "Allahumma rabban-naas, adzhibil-ba'sa, isyfihi wa antas-syaafii, laa syifaa-a illaa syifaa-uka, syifaa-an laa yughaadiru saqaman.",
+    "translation": "Ya Allah, Tuhan segala manusia, hilangkanlah segala penyakit, sembuhkanlah, Engkaulah Yang Maha Menyembuhkan. Tidak ada kesembuhan selain kesembuhan dari-Mu, kesembuhan yang tidak menyisakan rasa sakit."
+  },
+  {
+    "id": "doa-kemudahan-ujian",
+    "category": "Kemudahan Urusan",
+    "title": "Doa Memohon Kemudahan Saat Ujian",
+    "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+    "latin": "Allahumma laa sahla illa maa ja'altahu sahla, wa anta taj'alul hazna idzaa syi'ta sahla.",
+    "translation": "Ya Allah, tidak ada kemudahan kecuali apa yang Engkau jadikan mudah. Dan yang susah bisa Engkau jadikan mudah jika Engkau menghendaki."
+  },
+  {
+    "id": "doa-istighosah-saat-genting",
+    "category": "Pertolongan & Kebutuhan",
+    "title": "Doa Istighosah (Memohon Pertolongan di Saat Genting)",
+    "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+    "latin": "Ya Hayyu Ya Qayyum, bi rahmatika astaghits.",
+    "translation": "Wahai Rabb Yang Maha Hidup, Wahai Rabb Yang Berdiri Sendiri tidak butuh segala sesuatu, dengan rahmat-Mu aku memohon pertolongan."
+  },
+  {
+    "id": "doa-nabi-ayub",
+    "category": "Kesehatan & Kesembuhan",
+    "title": "Doa Nabi Ayub AS (Untuk Penyakit Berat)",
+    "arabic": "رَبِّ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+    "latin": "Robbi annii massaniyad-durru wa Anta Arhamur-roohimiin.",
+    "translation": "Ya Tuhanku, sesungguhnya aku telah ditimpa penyakit dan Engkau adalah Tuhan Yang Maha Penyayang di antara semua penyayang."
+  },
+  {
+    "id": "doa-tambahan-ilmu-pemahaman",
+    "category": "Pendidikan & Ilmu",
+    "title": "Doa Memohon Tambahan Ilmu dan Pemahaman",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا وَارْزُقْنِي فَهْمًا",
+    "latin": "Robbi zidni 'ilman warzuqni fahmaa.",
+    "translation": "Ya Tuhanku, tambahkanlah ilmuku dan berilah aku karunia untuk dapat memahaminya."
   }
-]
 ]
