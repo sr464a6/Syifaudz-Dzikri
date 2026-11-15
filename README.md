@@ -1,253 +1,119 @@
-# شفاء الذكر — Syifaudz Dzikri
+<div align="center">
+
+<!-- ANIMASI TULISAN ARAB -->
+<a href="https://syifaudz-dzikri-quran.endahsulistyawati73.workers.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Amiri&weight=700&size=44&duration=3200&pause=1200&color=10B981&center=true&vCenter=true&width=500&height=80&lines=%D8%B4%D9%90%D9%81%D9%8E%D8%A7%D8%A1%D9%8F+%D8%A7%D9%84%D8%B0%D9%90%D9%91%D9%83%D9%92%D8%B1%D9%90;%D8%A7%D9%84%D9%92%D9%82%D9%8F%D8%B1%D9%92%D8%A2%D9%86%D9%8F+%D8%A7%D9%84%D9%92%D9%83%D9%8E%D8%B1%D9%90%D9%8A%D9%85%D9%8F" alt="Animasi Tulisan Arab Syifaudz Dzikri" />
+</a>
+
+## Syifaudz Dzikri
 
 > *"Making the verses of the Holy Qur'an a remedy to always remember the greatness of Allah (SWT)."*
 
-**Syifaudz Dzikri** is a simple, modern, and user-friendly web-based Qur'an and daily prayer application. It is designed to make reading the Qur'an, listening to recitations, searching for verses, and accessing daily prayers easier — without requiring an account or login.
+**Syifaudz Dzikri** is a simple, modern, and user-friendly web-based Qur'an and daily prayer application — built for effortless reading, listening, and verse searching **without requiring an account or login**.
 
-🔗 **Live Demo:** syifaudz-dzikri-quran.endahsulistyawati73.workers.dev
-**DOWNLOAD APK (click by release anw)**
+<br/>
 
----
+<!-- TOMBOL LIVE DEMO & DOWNLOAD APK -->
+<p align="center">
+  <a href="https://syifaudz-dzikri-quran.endahsulistyawati73.workers.dev">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-047857?style=for-the-badge" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sr464a6/Syifaudz-Dzikri-Quran/releases">
+    <img src="https://img.shields.io/badge/📲_Download_APK_(Releases)-10B981?style=for-the-badge" alt="Download APK" />
+  </a>
+</p>
 
-## ✨ Features
+<br/>
 
-### 📖 Qur'an
+<!-- BAHASA PEMROGRAMAN & TOOLS (LOGO SAJA) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,netlify,cloudflare" alt="Tech Logos" />
+</p>
 
-- No login required
-- Complete **114 Surahs**, from Al-Fatihah to An-Nas
-- Display Surah number
-- Display Arabic Surah name
-- Display English Surah name
-- Display Surah name translation
-- Display number of verses
-- Arabic Qur'an text
-- Latin transliteration
-- Translation
-- Clean and comfortable reading interface
-- Open a specific Surah directly
-- Jump directly to a specific verse
-
----
-
-### 🔎 Qur'an Search
-
-Syifaudz Dzikri provides a flexible search system to help users quickly find Surahs and verses.
-
-Users can search by:
-
-- Surah name
-- Surah number
-- Words contained in verses
-- Verse number
-- `surah:verse` format
-- `surah verse` format
-- Surah name + verse number
-
-#### Search Examples
-
-```text
-Al-Baqarah 255
-2:255
-2 255
-Al-Fatihah
-1
-255
-```
+</div>
 
 ---
 
-### 🎧 Qur'an Recitation
+### ✨ Features
 
-Users can listen to Qur'an recitations directly from the application.
-
-The recitation feature allows users to:
-
-- Play recitations
-- Pause playback
-- Continue playback
-- Navigate between verses
-- Listen while reading the Qur'an
-- Follow the Arabic text and translation while listening
-
----
-
-### 🤲 Daily Prayers
-
-Syifaudz Dzikri provides a collection of daily Islamic prayers.
-
-The prayer section is designed to make commonly used daily prayers easier to access, read, and memorize.
-
-Users can read prayers with a simple and comfortable interface.
-
----
-
-## 📱 Responsive Design
-
-Syifaudz Dzikri is designed to work on different screen sizes.
-
-The application can be accessed from:
-
-- 📱 Mobile phones
-- 📲 Tablets
-- 💻 Laptops
-- 🖥️ Desktop computers
-
-The responsive layout provides a comfortable experience for both mobile and desktop users.
-
----
-
-## 🎨 User Interface
-
-Syifaudz Dzikri uses a clean and simple interface to help users focus on reading and listening to the Qur'an.
-
-The interface includes:
-
-- Modern navigation
-- Clean Qur'an reading cards
-- Responsive layouts
-- Simple search interface
-- Easy-to-use controls
-- Mobile-friendly design
-- Arabic text optimized for reading
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📖 Complete Holy Qur'an</h4>
+      <ul>
+        <li>No account or login required</li>
+        <li>Complete <b>114 Surahs</b> (Al-Fatihah to An-Nas)</li>
+        <li>Arabic text, Latin transliteration & translation</li>
+        <li>Displays Surah number, Arabic/English names & verse count</li>
+        <li>Jump directly to any specific Surah or verse</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔎 Smart Qur'an Search</h4>
+      <ul>
+        <li>Search by Surah name (<code>Al-Fatihah</code>) or number (<code>1</code>)</li>
+        <li>Search by words contained in verses</li>
+        <li>Flexible coordinate formats: <code>2:255</code>, <code>2 255</code>, or <code>Al-Baqarah 255</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎧 Qur'an Recitation</h4>
+      <ul>
+        <li>Play, pause, and resume audio recitations</li>
+        <li>Navigate smoothly between verses</li>
+        <li>Read Arabic text & translation simultaneously while listening</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤲 Daily Prayers & Responsive UI</h4>
+      <ul>
+        <li>Curated collection of daily Islamic prayers for easy memorization</li>
+        <li>Clean Arabic typography & comfortable reading cards</li>
+        <li>Fully responsive across <b>Mobile, Tablet, Laptop & Desktop</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Technologies
+### 🚀 Installation & Project Guide
 
-Syifaudz Dzikri is built as a web-based application using standard web technologies.
+<!-- TOMBOL KLIK BUKA-TUTUP SEPERTI KERTAS PANDUAN -->
+<details>
+  <summary><b>📄 Klik di sini untuk membuka Panduan Clone, Struktur Folder & Cara Menjalankan</b></summary>
+  <br/>
 
-### Frontend
+  <blockquote>
+    <h4>📋 Panduan Menjalankan Proyek di Lokal</h4>
 
-- HTML5
-- CSS3
-- JavaScript
+    1. Clone Repository
+    git clone https://github.com/sr464a6/Syifaudz-Dzikri-Quran.git
 
-### Tools & Deployment
+    2. Masuk ke Folder Proyek
+    cd Syifaudz-Dzikri-Quran
 
-- Git
-- GitHub
-- Netlify
+    3. Jalankan Aplikasi
+    Buka file index.html langsung di browser, atau jalankan menggunakan ekstensi Live Server di Visual Studio Code.
 
----
+    --------------------------------------------------
 
-## 📂 Project Structure
+    📂 Struktur Folder:
+    Syifaudz-Dzikri-Quran/
+    ├── index.html
+    ├── style.css
+    ├── js/
+    ├── assets/
+    └── README.md
+  </blockquote>
 
-```text
-Syifaudz-Dzikri-Quran/
-│
-├── index.html
-├── style.css
-├── js/
-│   └── ...
-│
-├── assets/
-│   └── ...
-│
-└── README.md
-```
-
-> The project structure may change as the application continues to be developed.
+</details>
 
 ---
 
-## 🚀 Getting Started
+### 📄 License
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/syifarizkaangeli/Syifaudz-Dzikri-Quran.git
-```
-
-### 2. Open the Project
-
-```bash
-cd Syifaudz-Dzikri-Quran
-```
-
-### 3. Run the Application
-
-Syifaudz Dzikri is a web-based application, so you can open `index.html` directly in a modern web browser.
-
-For development, you can use a local development server such as **Live Server** in Visual Studio Code.
-
----
-
-## 🌐 Live Demo
-
-Visit the live application:
-
-**https://syifaudz-dzikri-quran.netlify.app**
-
----
-
-## 🎯 Project Goals
-
-Syifaudz Dzikri was created to provide a simple digital platform for Muslims to read the Qur'an and access daily prayers.
-
-The main goals of this project are:
-
-- Make Qur'an reading more accessible
-- Make finding specific verses easier
-- Provide Qur'an recitations in one place
-- Provide useful daily prayers
-- Create a comfortable mobile-friendly reading experience
-- Encourage users to regularly read and remember Allah (SWT)
-
----
-
-## 🔮 Future Development
-
-Future improvements may include:
-
-- Offline Qur'an access
-- Bookmark verses
-- Reading history
-- Dark mode
-- Multiple Qur'an reciters
-- Adjustable Arabic text size
-- Adjustable translation and transliteration size
-- More daily prayer categories
-- Prayer reminders
-- Progressive Web App (PWA) support
-- Android application support
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-### Fork the Repository
-
-Fork this repository and create a new branch:
-
-```bash
-git checkout -b feature/your-feature
-```
-
-### Make Your Changes
-
-After making your changes:
-
-```bash
-git add .
-git commit -m "Add new feature"
-```
-
-### Push Your Changes
-
-```bash
-git push origin feature/your-feature
-```
-
-Then create a Pull Request on GitHub.
-
----
-
-## 📄 License
-
-This project is intended for educational and personal development purposes.
-
-Please make sure that any Qur'an text, translations, recitations, images, icons, or other external resources used in the project comply with their respective licenses and attribution requirements.
-
----
+This project is intended for educational and personal development purposes. All Qur'an texts, translations, audio recitations, and icons belong to their respective sources and licenses.
