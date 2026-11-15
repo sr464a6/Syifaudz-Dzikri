@@ -84,7 +84,7 @@
 
 <!-- TOMBOL KLIK BUKA-TUTUP SEPERTI KERTAS PANDUAN -->
 <details>
-  <summary><b>📄 Klik di sini untuk membuka Panduan Clone, Struktur Folder & Cara Menjalankan</b></summary>
+  <summary><b>📄 How to cloning & run</b></summary>
   <br/>
 
   <blockquote>
