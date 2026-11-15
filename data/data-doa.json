@@ -327,7 +327,6 @@
     "latin": "Allahumma waffiqna li tha'atika, wa atmim taqshiirana, wa taqabbal minna, innaka antas samii'ul 'aliim.",
     "translation": "Ya Allah, bimbinglah jalan kami pada jalan ketaatan kepada-Mu, sempurnakanlah kekurangan kami, terimalah ibadah kami. Sungguh, Engkau Maha Mendengar lagi Maha Mengetahui."
   },
-
   {
     "id": "doa-memohon-rahmat-dan-petunjuk",
     "category": "Hidayah & Petunjuk",
@@ -352,7 +351,6 @@
     "latin": "Allahummastur 'awraatii wa aamin raw'aatii.",
     "translation": "Ya Allah, tutupilah aib-aibku dan berilah aku rasa aman dari hal-hal yang mengkhawatirkan."
   },
-  [
   {
     "id": "doa-pengikat-hati",
     "category": "Hubungan & Jodoh",
@@ -433,7 +431,6 @@
     "latin": "Asyhadu an lā ilāha illallāhu wahdahū lā syarīka lahū ilāhan wāhidan, wa rabban syāhidan, lā ma'būda siwāhu, wa naḥnu lahū muslimūn.",
     "translation": "Aku bersaksi tiada Tuhan selain Allah Yang Esa. Tiada sekutu bagi-Nya sebagai Tuhan yang esa dan Tuhan yang menyaksikan. Tiada zat yang patut disembah selain-Nya. Kami tunduk kepada-Nya."
   },
-    [
   {
     "id": "doa-terhindar-fitnah-dajjal",
     "category": "Perlindungan",
@@ -514,14 +511,6 @@
     "latin": "Allahumma rahmataka arju fala takilni ila nafsi tharfata 'ain, wa ashlih li sya'ni kullahu, la ilaha illa anta.",
     "translation": "Ya Allah, rahmat-Mu aku harapkan, maka janganlah Engkau serahkan urusanku kepada diriku sendiri walau sekejap mata, dan perbaikilah segala urusanku, tidak ada Tuhan yang berhak disembah selain Engkau."
   },
-      {
-    "id": "doa-nabi-yunus",
-    "category": "Kelapangan & Kesulitan",
-    "title": "Doa Nabi Yunus (Keluar dari Kesulitan Besar)",
-    "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
-    "latin": "La ilaha illa anta subhanaka inni kuntu minadz dzalimin.",
-    "translation": "Tidak ada Tuhan yang berhak disembah selain Engkau. Maha Suci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim."
-  },
   {
     "id": "doa-sakit-diri-sendiri",
     "category": "Kesehatan & Kesembuhan",
@@ -569,5 +558,93 @@
     "arabic": "رَبِّ زِدْنِي عِلْمًا وَارْزُقْنِي فَهْمًا",
     "latin": "Robbi zidni 'ilman warzuqni fahmaa.",
     "translation": "Ya Tuhanku, tambahkanlah ilmuku dan berilah aku karunia untuk dapat memahaminya."
+  },
+  {
+    "id": "doa-ampunan-setelah-sholat-taubat",
+    "category": "Taubat & Ampunan",
+    "title": "Doa Memohon Ampunan serta Penerimaan Taubat",
+    "arabic": "رَبِّ اغْفِرْ لِيْ وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمُ",
+    "latin": "Rabbighfirli wa tub 'alayya, innaka antat-Tawwabur-Rahim.",
+    "translation": "Ya Tuhanku, ampunilah dosaku dan terimalah taubatku, sesungguhnya Engkau Maha Penerima Taubat lagi Maha Penyayang."
+  },
+  {
+    "id": "doa-inner-beauty",
+    "category": "Doa Kecantikan",
+    "title": "Doa Inner Beauty (QS. Al-Waqi'ah: 35–36)",
+    "arabic": "إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً، فَجَعَلْنَاهُنَّ أَبْكَارًا",
+    "latin": "Innā ansya'nāhunna insyā'ā, fa ja'alnāhunna abkārā.",
+    "translation": "Sesungguhnya Kami menciptakan mereka (bidadari-bidadari) dengan langsung, dan Kami jadikan mereka gadis-gadis perawan."
+  },
+  {
+    "id": "doa-saat-bercermin",
+    "category": "Doa Harian",
+    "title": "Doa Saat Bercermin",
+    "arabic": "اللَّهُمَّ كَمَا حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+    "latin": "Allahumma kamaa hassanta khalqii fahassin khuluqii.",
+    "translation": "Wahai Allah sebagaimana Engkau telah membaguskan tubuhku, maka baguskanlah akhlakku."
+  },
+  {
+    "id": "doa-mencerahkan-wajah",
+    "category": "Pancar Cahaya & Wajah",
+    "title": "Doa Mencerahkan Wajah",
+    "arabic": "اللَّهُمَّ بَيِّضْ وَجْهِي بِنُورِكَ يَوْمَ تَبْيَضُّ وُجُوهُ أَوْلِيَائِكَ وَلَا تُسَوِّدْ وَجْهِي بِظُلُمَاتِكَ يَوْمَ تَسْوَدُّ وُجُوهُ أَعْدَائِكَ",
+    "latin": "Allāhumma bayyidh wajhī bi nūrika yauma tabyadhdhu wujūhu auliyā'ika. Wa lā tusawwid wajhī bi zhulumātika yauma taswaddu wujūhu a'dā'ika.",
+    "translation": "Wahai Tuhanku, putihkan wajahku dengan cahaya-Mu pada hari Kauputihkan wajah para wali-Mu. Jangan Kauhitamkan wajahku dengan kegelapan pada hari Kauhitamkan wajah para musuh-Mu."
+  },
+  {
+    "id": "amalan-ratib-al-haddad",
+    "category": "Dzikir",
+    "title": "Amalan Dzikir Setelah Subuh (Ratib Al-Haddad)",
+    "arabic": "",
+    "latin": "Membaca Ratib Al-Haddad setelah sholat Subuh.",
+    "translation": "Amalan setelah sholat Subuh agar hajat dunia terkabul satu per satu dan mendapat kabar baik setiap harinya."
+  },
+  {
+    "id": "doa-wafat-di-madinah",
+    "category": "Akhirat & Keselamatan",
+    "title": "Doa Agar Wafat di Kota Madinah",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي شَهَادَةً فِي سَبِيلِكَ وَاجْعَلْ مَوْتِي فِي بَلَدِ رَسُولِكَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "latin": "Allâhummar-zuqnî syahâdatan fî sabîlika, waj 'al mautî fî baladi rasûlika shallallâhu 'alaihi wasallam.",
+    "translation": "Ya Allah, karuniakanlah kepadaku mati syahid di jalan yang Engkau ridhai, dan jadikanlah kematianku di negeri Rasul-Mu shallallâhu 'alaihi wasallam."
+  },
+  {
+    "id": "dzikir-stres-karena-dunia",
+    "category": "Ketenangan Hati",
+    "title": "Dzikir Jika Stres Disebabkan oleh Dunia",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+    "latin": "LailahaillAllah.",
+    "translation": "Tiada Tuhan selain Allah."
+  },
+  {
+    "id": "dzikir-stres-karena-orang-lain",
+    "category": "Ketenangan Hati",
+    "title": "Dzikir Jika Stres Disebabkan oleh Orang Lain",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ العَلِيِّ العَظِيْمِ",
+    "latin": "Lā hawlā wa lā quwwata illa billah.",
+    "translation": "Tiada daya dan upaya kecuali dengan kekuatan Allah Yang Maha Tinggi lagi Maha Agung."
+  },
+  {
+    "id": "dzikir-stres-karena-diri-sendiri",
+    "category": "Ketenangan Hati",
+    "title": "Dzikir Jika Stres Disebabkan oleh Diri Sendiri",
+    "arabic": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ إِنَّ اللهَ غَفُورٌ رَحِيمٌ",
+    "latin": "Astaghfirullohal 'Azim. Innalloha ghofurur-rohim.",
+    "translation": "Aku memohon ampun kepada Allah Yang Maha Agung, sesungguhnya Allah Maha Pengampun lagi Maha Penyayang."
+  },
+  {
+    "id": "dzikir-stres-masa-depan",
+    "category": "Ketenangan Hati",
+    "title": "Dzikir Jika Stres Karena Masa Depan yang Belum Pasti",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "latin": "Hasbunallahu wa ni'mal-wakil.",
+    "translation": "Cukuplah Allah menjadi penolong kami dan Allah adalah sebaik-baik pelindung."
+  },
+  {
+    "id": "doa-itidal-pujian-malaikat",
+    "category": "Ibadah & Ketaatan",
+    "title": "Doa I'tidal (Malaikat Berebut Mencatat Amalnya)",
+    "arabic": "حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
+    "latin": "Sami'allahu liman hamidah, Rabbana wa laka al-hamdu hamdan katsiran thayyiban mubarakan fihi.",
+    "translation": "Ya Allah, bagi-Mu segala pujian, aku memuji-Mu dengan pujian yang banyak, aku hanya minta yang terbaik menurut ridho-Mu dan aku mohon kasih yang banyak penuh dengan berkah."
   }
 ]
